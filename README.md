@@ -9,3 +9,7 @@ Além disso, possuo formações técnicas que enriquecem meu perfil: sou formado
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliamDesigner&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+###Projetos
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiliamDesigner&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
