@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi 👋
 
-<!--
-**wiliamDesigner/wiliamDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### sobre o wiliam
 
-Here are some ideas to get you started:
+Sou um estudante dedicado e apaixonado por tecnologia, atualmente cursando Full Stack Python na EBAC, onde desenvolvo habilidades para criar aplicações completas e robustas. Paralelamente, estou expandindo meu conhecimento em Java através de um curso na Udemy, consolidando minha expertise em linguagens de programação.
+Em abril, concluirei minha graduação em Análise e Desenvolvimento de Sistemas pela Unicesumar, marcando um importante passo na minha trajetória acadêmica e profissional.
+Além disso, possuo formações técnicas que enriquecem meu perfil: sou formado em AutoCAD 2D e 3D pela FATEC, bem como em Redes e Técnico em Informática pela Microlins. Essa combinação de conhecimentos em desenvolvimento, infraestrutura e design técnico me torna um profissional versátil e preparado para enfrentar desafios no mundo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Detalhes
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiliamDesigner&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
