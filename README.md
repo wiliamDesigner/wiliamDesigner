@@ -5,7 +5,13 @@
 Sou um estudante dedicado e apaixonado por tecnologia, atualmente cursando Full Stack Python na EBAC, onde desenvolvo habilidades para criar aplicações completas e robustas. Paralelamente, estou expandindo meu conhecimento em Java através de um curso na Udemy, consolidando minha expertise em linguagens de programação.
 
 
-Habilidades: React, TypeScript, React Router DOM, Redux Toolkit, Git, GitHub, Python, SQLite ,VS Code,Django,FastApi,PostgreSQL, MySQL, SQLite ,Html5,Css3,JavaScripty,PyTest,Pandas,NodeJs,Prisma,Aws S3,SASS,Tailwind,Styled-Components,Json,Vercel,BooStrap,SistemaWeb,Css,Interface Intuitiva,Arquitetura da Informação.
+Habilidades: React, TypeScript, React Router DOM, Redux Toolkit, Git, GitHub,Python, SQLite
+
+,VS Code,Django,FastApi,PostgreSQL, MySQL, SQLite ,Html5,Css3,JavaScripty,PyTest
+
+,Pandas,NodeJs,Prisma,Aws S3,SASS,Tailwind,Styled-Components,Json,Vercel,
+
+BooStrap,SistemaWeb,Css,Interface Intuitiva,Arquitetura da Informação.
 
   
 Conhecimentos: Data Processing, Metodologias Ágeis.
